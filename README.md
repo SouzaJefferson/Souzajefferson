@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>Always a tech enthusiast at heart, I started my journey in 2021 with HTML and CSS during my technical course. That’s when I turned curiosity into code.<br><br>📚 I'm currently learning<br>Diving deeper into HTML and CSS with a higher education approach, while expanding my skills in JavaScript and the C programming language.<br><br>🎯 Goals:<br>I'm working to build a solid career in programming—exploring different paths to discover where I truly belong. In the long run, my dream is to enter the game development industry as a creative director or game designer, bringing my ideas to life.<br><br>🎲 Fun fact:<br>Without the ideal resources to start coding early, I trained my creativity by designing original RPG systems and crafting stories. Today, I use that same passion to fuel my growth as a developer.</p>
+<p align="left">✨ Creating bugs since 2021<br>Always a tech enthusiast at heart, I started my journey in 2021 with HTML and CSS during my technical course. That’s when I turned curiosity into code.<br><br>📚 I'm currently learning<br>Diving deeper into HTML and CSS with a higher education approach, while expanding my skills in JavaScript and the C programming language.<br><br>🎲 Fun fact:<br>Without the ideal resources to start coding early, I trained my creativity by designing original RPG systems and crafting stories. Today, I use that same passion to fuel my growth as a developer.</p>
 
 ###
 
@@ -52,9 +52,9 @@
   <a href="https://www.instagram.com/jeff_c_souza/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
- <a href="mailto:jeffersoncorreia425@gmail.com" target="_blank" title="Send me an email">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&to=jeffersoncorreia425@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###

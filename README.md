@@ -52,7 +52,7 @@
   <a href="https://www.instagram.com/jeff_c_souza/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="jeffersoncorreia425@gmail.com" target="_blank">
+  <a href="[jeffersoncorreia425@gmail.com](https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
